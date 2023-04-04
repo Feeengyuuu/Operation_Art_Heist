@@ -1,0 +1,1223 @@
+﻿Log file open, 04/03/23 19:09:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Operation_Art_Heist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.239254
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Feeengyuuu -epicuserid=db6dcdc8495a4fb89a9d0440c7f75828 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+[2023.04.04-02.09.23:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.04-02.09.23:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+[2023.04.04-02.09.23:174][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+[2023.04.04-02.09.23:221][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.04-02.09.23:222][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:222][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.04-02.09.23:223][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.04-02.09.23:223][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.04-02.09.23:223][  0]LogHAL: Display: Platform has ~ 48 GB [51454603264 / 68719476736 / 48], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.04-02.09.23:223][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.04-02.09.23:223][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.04-02.09.23:223][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Scalability.ini]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.04-02.09.23:224][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Engine.ini]
+[2023.04.04-02.09.23:224][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Config/Windows/Editor.ini]
+[2023.04.04-02.09.23:224][  0]LogInit: Computer: MYBEAST
+[2023.04.04-02.09.23:224][  0]LogInit: User: LocalTest
+[2023.04.04-02.09.23:224][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.04-02.09.23:224][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.04-02.09.23:224][  0]LogMemory: Memory total: Physical=47.9GB (48GB approx)
+[2023.04.04-02.09.23:224][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.04-02.09.23:224][  0]LogMemory: Process Physical Memory: 148.75 MB used, 148.76 MB peak
+[2023.04.04-02.09.23:224][  0]LogMemory: Process Virtual Memory: 131.21 MB used, 131.21 MB peak
+[2023.04.04-02.09.23:224][  0]LogMemory: Physical Memory: 19253.32 MB used,  29817.61 MB free, 49070.93 MB total
+[2023.04.04-02.09.23:224][  0]LogMemory: Virtual Memory: 134182336.00 MB used,  35391.79 MB free, 134217728.00 MB total
+[2023.04.04-02.09.23:642][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.04-02.09.23:717][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.04-02.09.23:718][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.04.04-02.09.23:718][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2023.04.04-02.09.23:874][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.04-02.09.23:888][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.04-02.09.23:905][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.04-02.09.23:905][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.04-02.09.24:215][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.04-02.09.30:489][  0]LogHMD: Failed to initialize OpenVR with code 208
+[2023.04.04-02.09.30:489][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.04-02.09.30:489][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.04-02.09.30:489][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.04-02.09.30:655][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2023.04.04-02.09.30:655][  0]LogD3D11RHI:       11041/0/24535 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:       0/0/24535 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Ti
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     DeviceId    : 1e07
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     SubSysId    : 37151462
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     DedicatedVideoMemory : 11577327616 bytes
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     SharedSystemMemory : 25727301632 bytes
+[2023.04.04-02.09.30:657][  0]LogD3D11RHI:     AdapterLuid : 0 73829
+[2023.04.04-02.09.30:666][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.04-02.09.30:666][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.04-02.09.30:666][  0]LogWindows: EnumDisplayDevices:
+[2023.04.04-02.09.30:666][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2023.04.04-02.09.30:666][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2023.04.04-02.09.30:667][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2023.04.04-02.09.30:667][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2023.04.04-02.09.30:668][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:   Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:      Driver Date: 3-16-2023
+[2023.04.04-02.09.30:668][  0]LogRHI: Texture pool is 7728 MB (70% of 11041 MB)
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Ti
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     DeviceId    : 1e07
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     SubSysId    : 37151462
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     DedicatedVideoMemory : 11577327616 bytes
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     SharedSystemMemory : 25727301632 bytes
+[2023.04.04-02.09.30:668][  0]LogD3D11RHI:     AdapterLuid : 0 73829
+[2023.04.04-02.09.30:758][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.04-02.09.30:758][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.04-02.09.30:758][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.04-02.09.30:759][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2023.04.04-02.09.30:776][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.04.04-02.09.30:834][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.04.04-02.09.31:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.04-02.09.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.04-02.09.31:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.04-02.09.31:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.04-02.09.31:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.04-02.09.31:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.04-02.09.31:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.04-02.09.31:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.04-02.09.31:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.04-02.09.31:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.04-02.09.31:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.04-02.09.31:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.04-02.09.31:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.04-02.09.31:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.04-02.09.31:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.04-02.09.31:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.04-02.09.31:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.04-02.09.31:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.04-02.09.31:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.04-02.09.31:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.04-02.09.31:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.04-02.09.31:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.04-02.09.31:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.04-02.09.31:350][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.04-02.09.31:361][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.04-02.09.31:404][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.04.04-02.09.31:453][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.04-02.09.31:453][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Intermediate/Shaders/WorkingDirectory/32284/).
+[2023.04.04-02.09.31:453][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/super/AppData/Local/Temp/UnrealShaderWorkingDir/2B7245094803B8C09910E6A77D241B56/'.
+[2023.04.04-02.09.31:454][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.04-02.09.31:454][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.04-02.09.31:454][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.04-02.09.32:129][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.04-02.09.32:178][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/super/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.04-02.09.32:178][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/super/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.04.04-02.09.32:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.04-02.09.32:178][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.04-02.09.32:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.04-02.09.32:178][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.04-02.09.32:193][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.04-02.09.32:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.04-02.09.32:193][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.04-02.09.32:205][  0]LogDerivedDataCache: Speed tests for C:/Users/super/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.04.04-02.09.32:205][  0]LogDerivedDataCache: Display: Performance to C:/Users/super/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=526.17MBs, RandomWriteSpeed=110.18MBs. Assigned SpeedClass 'Local'
+[2023.04.04-02.09.32:206][  0]LogDerivedDataCache: Using Local data cache path C:/Users/super/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.04-02.09.32:206][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.04-02.09.32:206][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.04-02.09.32:253][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.04-02.09.32:254][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.04-02.09.32:280][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2023.04.04-02.09.32:488][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.04-02.09.32:488][  0]LogInit: Active device profile: [000001F3BFD96F00][000001F3BE1636C0 49] Windows
+[2023.04.04-02.09.32:488][  0]LogInit: Profiles: [000001F3BFD96F00][000001F3BE1636C0 49] Windows, [000001F3BFD59200][000001F3BE16B980 49] WindowsNoEditor, [000001F3BFD95200][000001F3BE16E0C0 49] WindowsServer, [000001F3BFD5AA00][000001F3BE172380 49] WindowsClient, [000001F3BFD96900][000001F3BE176640 49] IOS, [000001F3BFD59800][000001F3BE17A900 49] iPadAir, [000001F3BFD95700][000001F3BE17EBC0 49] iPadAir2, [000001F3BFCEFA00][000001F3BE18F0C0 49] IPadPro, [000001F3BFCEFB00][000001F3BE183100 49] iPadAir3, [000001F3BFD96500][000001F3BE167380 49] iPadAir4, [000001F3BFCED700][000001F3BE187640 49] iPadMini2, [000001F3BFD95800][000001F3BE193900 49] iPadMini3, [000001F3BFCEFE00][000001F3BE197BC0 49] iPadMini4, [000001F3BFD96C00][000001F3BE19A300 49] iPadMini5, [000001F3BFD17300][000001F3BE1AE840 49] iPhone6, [000001F3BFD17400][000001F3BE19E880 49] iPodTouch6, [000001F3BFCEC500][000001F3BE1B6DC0 49] iPhone7, [000001F3BFCEC400][000001F3BE1A6E00 49] iPodTouch7, [000001F3BFD15700][000001F3BE1AB0C0 49] iPhone5S, [000001F3BFCEF600][000001F3BE18B340 49] iPhone6Plus, [000001F3BFD16600][000001F3BE1A35C0 49] iPhone6S, [000001F3BFCED500][000001F3BE1BB880 49] iPhone6SPlus, [000001F3BFD15400][000001F3BE1BFB40 49] iPhone7Plus, [000001F3BFCEDC00][000001F3BE1C2280 49] iPhoneSE, [000001F3BFD14C00][000001F3BE1C6540 49] iPhone8, [000001F3BFCEE200][000001F3BE1CA800 49] iPhone8Plus, [000001F3BFD15D00][000001F3C039EAC0 49] iPhoneX, [000001F3BFCEEE00][000001F3C03A2D80 49] iPhoneXS, [000001F3BFD16200][000001F3C03A7040 49] iPhoneXSMax, [000001F3BFCEE600][000001F3C03AB300 49] iPhoneXR, [000001F3BFD16000][000001F3BE1B3580 49] iPhone11, [000001F3BFCEC100][000001F3C03B3840 49] iPhone11Pro, [000001F3BFD15900][000001F3C03B7B00 49] iPhone11ProMax, [000001F3BFCEFF00][000001F3C03BA240 49] iPhoneSE2, [000001F3BFD15500][000001F3C03BE500 49] iPhone12Mini, [000001F3BFCEF300][000001F3C03C27C0 49] iPhone12, [000001F3BFD15800][000001F3C03C6A80 49] iPhone12Pro, [000001F3BFCEF400][000001F3C03CAD40 49] iPhone12ProMax, [000001F3BFD17800][000001F3C03CF000 49] iPadPro105, [000001F3BFCEC300][000001F3C03D32C0 49] iPadPro129, [000001F3BFD14E00][000001F3C03AF540 49] iPadPro97, [000001F3BFCEE400][000001F3C03D77C0 49] iPadPro2_129, [000001F3BFD17200][000001F3C03DFA80 49] iPad5, [000001F3BFCEC800][000001F3C03E21C0 49] iPad6, [000001F3BFD14D00][000001F3C03E6480 49] iPad7, [000001F3BFCECC00][000001F3C03EA740 49] iPad8, [000001F3BFD17700][000001F3C03EEA00 49] iPadPro11, [000001F3BFCEEC00][000001F3C03F2CC0 49] iPadPro2_11, [000001F3BFD15E00][000001F3C03F6F80 49] iPadPro3_129, [000001F3BFCED800][000001F3C03FB240 49] iPadPro4_129, [000001F3BFD15300][000001F3C03FF500 49] AppleTV, [000001F3BFCED400][000001F3C03DB780 49] AppleTV4K, [000001F3BFD15000][000001F3C0403A00 49] TVOS, [000001F3BFDF0200][000001F3C040A140 49] Mac, [000001F3BFD59700][000001F3C040E400 49] MacClient, [000001F3BFDF1B00][000001F3C04126C0 49] MacNoEditor, [000001F3BFD58F00][000001F3C0416980 49] MacServer, [000001F3BFDF0A00][000001F3C041AC40 49] Linux, [000001F3BFD5A800][000001F3C041EF00 49] LinuxAArch64, [000001F3BFDF0D00][000001F3C04231C0 49] LinuxNoEditor, [000001F3BFD5B400][000001F3C0427480 49] LinuxAArch64NoEditor, [000001F3BFDF1300][000001F3C042B740 49] LinuxClient, [000001F3BFD5BF00][000001F3C04079C0 49] LinuxAArch64Client, [000001F3BFDF1100][000001F3C042E0C0 49] LinuxServer, [000001F3BFD58100][000001F3C0436380 49] LinuxAArch64Server, [000001F3BFDF1800][000001F3C043A640 49] Android, [000001F3BFD5A400][000001F3C043E900 49] Android_Low, [000001F3BFDF0500][000001F3C0442BC0 49] Android_Mid, [000001F3BFD59500][000001F3C0446E80 49] Android_High, [000001F3BFDF1E00][000001F3C044B140 49] Android_Default, [000001F3BFD58900][000001F3C044F400 49] Android_Adreno4xx, [000001F3BFDF0600][000001F3C04536C0 49] Android_Adreno5xx_Low, [000001F3BFD59600][000001F3C0457980 49] Android_Adreno5xx, [000001F3BFDF0E00][000001F3C0433C00 49] Android_Adreno6xx, [000001F3BFD5BC00][000001F3C045A300 49] Android_Adreno6xx_Vulkan, [000001F3BFDF0100][000001F3C04625C0 49] Android_Mali_T6xx, [000001F3BFD5B600][000001F3C0466880 49] Android_Mali_T7xx, [000001F3BFCEFD00][000001F3C046AB40 49] Android_Mali_T8xx, [000001F3BFD58300][000001F3C046EE00 49] Android_Mali_G71, [000001F3BFCEED00][000001F3C04730C0 49] Android_Mali_G72, [000001F3BFD59300][000001F3C0477380 49] Android_Mali_G72_Vulkan, [000001F3BFCEEB00][000001F3C047B640 49] Android_Mali_G76, [000001F3BFD5AE00][000001F3C047F900 49] Android_Mali_G76_Vulkan, [000001F3BFCED100][000001F3C0483BC0 49] Android_Mali_G77, [000001F3BFD5A600][000001F3C045E2C0 49] Android_Mali_G77_Vulkan, [000001F3BFCECB00][000001F3C0486540 49] Android_Mali_G78, [000001F3BFD5AD00][000001F3C048E800 49] Android_Mali_G78_Vulkan, [000001F3BFCEDA00][000001F3C0492AC0 49] Android_Mali_G710, [000001F3BFD5A500][000001F3C0496D80 49] Android_Mali_G710_Vulkan, [000001F3BFCEC900][000001F3C049B040 49] Android_Vulkan_SM5, [000001F3BFD58C00][000001F3C049F300 49] Android_PowerVR_G6xxx, [000001F3BFCEC700][000001F3C04A35C0 49] Android_PowerVR_GT7xxx, [000001F3BFD59100][000001F3C04A7880 49] Android_PowerVR_GE8xxx, [000001F3BFCEEA00][000001F3C04ABB40 49] Android_PowerVR_GM9xxx, [000001F3BFD5B500][000001F3C04AE280 49] Android_PowerVR_GM9xxx_Vulkan, [000001F3BFCEDB00][000001F3C048A500 49] Android_TegraK1, [000001F3BFD59A00][000001F3C04B2780 49] Android_Unknown_Vulkan, [000001F3BFCEF200][000001F3C04BAA40 49] Lumin, [000001F3BFD5BE00][000001F3C04BED00 49] Lumin_Desktop, [000001F3BFCEDD00][000001F3C04C2FC0 49] HoloLens, 
+[2023.04.04-02.09.32:622][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.04-02.09.32:622][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.04-02.09.32:622][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.04-02.09.32:622][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.04-02.09.32:622][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.04-02.09.32:641][  0]LogNetVersion: Operation_Art_Heist 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3620983446)
+[2023.04.04-02.09.33:067][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.04-02.09.33:118][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.04-02.09.33:123][  0]LogUObjectArray: 17180 objects as part of root set at end of initial load.
+[2023.04.04-02.09.33:123][  0]LogUObjectAllocator: 4302448 out of 0 bytes used by permanent object pool.
+[2023.04.04-02.09.33:123][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.04-02.09.33:475][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 859498DF4D1D5B722605A5A2A8E2470B | Instance: 911C0E3B4C46DBBABE8BC392609AD8AD (MYBEAST-32284).
+[2023.04.04-02.09.33:615][  0]LogPython: Using Python 3.7.7
+[2023.04.04-02.09.34:095][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.04-02.09.34:103][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.04-02.09.34:318][  0]SourceControl: Source control is disabled
+[2023.04.04-02.09.34:318][  0]SourceControl: Source control is disabled
+[2023.04.04-02.09.34:323][  0]SourceControl: Source control is disabled
+[2023.04.04-02.09.34:349][  0]SourceControl: Source control is disabled
+[2023.04.04-02.09.34:365][  0]SourceControl: Source control is disabled
+[2023.04.04-02.09.34:387][  0]LogUProjectInfo: Found projects:
+[2023.04.04-02.09.34:712][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.04-02.09.34:784][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.04-02.09.34:818][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-02.09.34:818][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-02.09.34:995][  0]LogCollectionManager: Loaded 0 collections in 0.001711 seconds
+[2023.04.04-02.09.35:030][  0]LogFileCache: Scanning file cache for directory 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/Collections/' took 0.00s
+[2023.04.04-02.09.35:030][  0]LogFileCache: Scanning file cache for directory 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/Developers/LocalTest/Collections/' took 0.00s
+[2023.04.04-02.09.35:030][  0]LogFileCache: Scanning file cache for directory 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/Collections/' took 0.00s
+[2023.04.04-02.09.35:030][  0]LogOcInput: OculusInput pre-init called
+[2023.04.04-02.09.35:361][  0]LogEngine: Initializing Engine...
+[2023.04.04-02.09.35:452][  0]LogHMD: Failed to initialize OpenVR with code 208
+[2023.04.04-02.09.35:480][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.04.04-02.09.35:480][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2023.04.04-02.09.35:480][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.04.04-02.09.35:525][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2023.04.04-02.09.35:525][  0]LogHMD: - XR_KHR_D3D11_enable
+[2023.04.04-02.09.35:525][  0]LogHMD: - XR_KHR_D3D12_enable
+[2023.04.04-02.09.35:525][  0]LogHMD: - XR_KHR_opengl_enable
+[2023.04.04-02.09.35:525][  0]LogHMD: - XR_KHR_vulkan_enable
+[2023.04.04-02.09.35:525][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2023.04.04-02.09.35:525][  0]LogHMD: - XR_KHR_visibility_mask
+[2023.04.04-02.09.35:525][  0]LogHMD: - XR_EXT_hand_tracking
+[2023.04.04-02.09.35:525][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.04-02.09.35:526][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.04-02.09.35:645][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.04-02.09.35:655][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.04-02.09.35:655][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.04-02.09.35:660][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.04-02.09.35:660][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.04-02.09.35:661][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.04-02.09.35:661][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-02.09.35:661][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-02.09.35:661][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-02.09.35:661][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-02.09.35:661][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-02.09.35:661][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 4: BackLeft
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 5: BackRight
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 6: SideLeft
+[2023.04.04-02.09.37:569][  0]LogAudioMixer: Display: 7: SideRight
+[2023.04.04-02.09.38:160][  0]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.04.04-02.09.38:161][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-02.09.38:167][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-02.09.38:167][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-02.09.38:168][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.04-02.09.38:168][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.04-02.09.38:168][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.04-02.09.38:170][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.04-02.09.38:170][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.04-02.09.38:170][  0]LogInit: FAudioDevice initialized.
+[2023.04.04-02.09.38:170][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.04-02.09.38:170][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.04-02.09.38:220][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/super/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.04-02.09.38:221][  0]LogInit: Texture streaming: Enabled
+[2023.04.04-02.09.38:277][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.04.04-02.09.38:304][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.04-02.09.38:304][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.04-02.09.38:324][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.04-02.09.38:375][  0]LogInit: Transaction tracking system initialized
+[2023.04.04-02.09.38:485][  0]BlueprintLog: New page: Editor Load
+[2023.04.04-02.09.38:773][  0]LocalizationService: Localization service is disabled
+[2023.04.04-02.09.38:885][  0]TimingProfiler: Initialize
+[2023.04.04-02.09.38:885][  0]TimingProfiler: OnSessionChanged
+[2023.04.04-02.09.38:885][  0]LoadingProfiler: Initialize
+[2023.04.04-02.09.38:885][  0]LoadingProfiler: OnSessionChanged
+[2023.04.04-02.09.38:885][  0]NetworkingProfiler: Initialize
+[2023.04.04-02.09.38:885][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.04-02.09.38:885][  0]MemoryProfiler: Initialize
+[2023.04.04-02.09.38:885][  0]MemoryProfiler: OnSessionChanged
+[2023.04.04-02.09.39:308][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.04-02.09.39:308][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.04-02.09.39:985][  0]LogFileCache: Scanning file cache for directory 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/' took 0.00s
+[2023.04.04-02.09.40:320][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.04-02.09.40:334][  0]SourceControl: Source control is disabled
+[2023.04.04-02.09.40:334][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.690
+[2023.04.04-02.09.40:334][  0]LightingResults: New page: Lighting Build
+[2023.04.04-02.09.40:336][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-02.09.40:336][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-02.09.40:336][  0]MapCheck: New page: Map Check
+[2023.04.04-02.09.40:336][  0]LightingResults: New page: Lighting Build
+[2023.04.04-02.09.40:343][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.04-02.09.40:347][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.04-02.09.40:692][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.04.04-02.09.40:692][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.04-02.09.40:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.04-02.09.45:957][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.04-02.09.45:957][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.04-02.09.45:957][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2023.04.04-02.09.45:957][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.623
+[2023.04.04-02.09.45:959][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.315
+[2023.04.04-02.09.46:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.09.46:070][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.09.46:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.09.46:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.09.46:094][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3822 classes and 928 folders.
+[2023.04.04-02.09.46:096][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.04.04-02.09.46:098][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.04-02.09.46:098][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:098][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.04-02.09.46:098][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:098][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.04.04-02.09.46:098][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.04.04-02.09.46:099][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.04-02.09.46:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.04-02.09.46:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.04.04-02.09.46:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.04.04-02.09.46:100][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.04-02.09.46:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.04-02.09.46:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.04.04-02.09.46:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.04.04-02.09.46:101][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.04-02.09.46:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.04-02.09.46:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.04-02.09.46:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.04.04-02.09.46:102][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.04-02.09.46:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.04-02.09.46:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.04.04-02.09.46:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.04.04-02.09.46:103][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.04-02.09.46:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.04-02.09.46:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.04.04-02.09.46:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.04.04-02.09.46:104][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.04-02.09.46:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.04-02.09.46:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.04.04-02.09.46:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.04-02.09.46:105][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.04-02.09.46:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.04-02.09.46:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.04.04-02.09.46:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.04-02.09.46:106][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.04-02.09.46:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.04-02.09.46:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.04.04-02.09.46:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.04.04-02.09.46:107][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.04-02.09.46:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.04-02.09.46:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.04.04-02.09.46:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.04.04-02.09.46:108][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.04-02.09.46:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.04-02.09.46:108][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:108][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.04.04-02.09.46:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.04-02.09.46:109][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.04-02.09.46:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.04-02.09.46:109][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:109][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.04.04-02.09.46:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.04.04-02.09.46:110][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.04-02.09.46:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.04-02.09.46:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.04.04-02.09.46:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.04.04-02.09.46:111][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.04-02.09.46:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:111][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.04-02.09.46:111][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:111][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.04.04-02.09.46:111][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.04-02.09.46:112][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.04-02.09.46:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.04-02.09.46:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.04.04-02.09.46:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.04-02.09.46:113][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.04-02.09.46:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.04-02.09.46:113][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:113][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.04.04-02.09.46:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.04.04-02.09.46:114][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.04-02.09.46:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.04-02.09.46:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.04.04-02.09.46:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.04-02.09.46:115][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.04-02.09.46:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:115][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.04-02.09.46:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.04.04-02.09.46:115][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.04.04-02.09.46:116][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.04-02.09.46:116][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:116][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.04-02.09.46:116][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:116][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.04.04-02.09.46:116][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.04.04-02.09.46:117][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.04-02.09.46:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.04-02.09.46:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.04.04-02.09.46:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.04.04-02.09.46:118][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.04-02.09.46:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.04-02.09.46:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.04.04-02.09.46:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.04.04-02.09.46:119][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.04-02.09.46:119][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:119][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.04-02.09.46:119][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:119][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.04.04-02.09.46:119][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.04.04-02.09.46:120][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.04-02.09.46:120][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:120][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.04-02.09.46:120][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:120][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.04.04-02.09.46:120][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.04.04-02.09.46:120][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.04-02.09.46:120][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:120][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.04-02.09.46:120][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:120][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.04.04-02.09.46:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.04.04-02.09.46:121][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.04-02.09.46:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.04-02.09.46:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.04.04-02.09.46:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.04.04-02.09.46:122][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.04-02.09.46:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.04-02.09.46:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.04-02.09.46:122][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.04-02.09.46:122][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.04.04-02.09.46:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.04-02.09.46:223][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.04.04-02.09.46:224][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.04.04-02.09.46:368][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.04-02.09.46:373][  0]LogSlate: Took 0.004159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.04-02.09.46:374][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.04-02.09.46:462][  0]LogRenderer: Reallocating scene render targets to support 1596x808 Format 10 NumSamples 1 (Frame:1).
+[2023.04.04-02.09.46:865][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.04.04-02.09.46:865][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.04.04-02.09.46:865][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.04.04-02.09.46:865][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.04.04-02.09.46:865][  0]LogLoad: (Engine Initialization) Total time: 25.22 seconds
+[2023.04.04-02.09.46:865][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.04-02.09.46:891][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.04-02.10.04:317][966]LogAssetRegistry: Asset discovery search completed in 32.0379 seconds
+[2023.04.04-02.10.04:323][966]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.04.04-02.10.15:445][739]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2023.04.04-02.10.15:445][739]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.04.04-02.10.15:445][739]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2023.04.04-02.10.15:445][739]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: URL: C:\Users\super\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2023.04.04-02.10.15:446][739]LogWindows: Warning: URL: C:\Users\super\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.04.04-02.10.15:447][739]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2023.04.04-02.10.15:447][739]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.04.04-02.12.56:582][295]LogSlate: Window 'Source Control Login' being destroyed
+[2023.04.04-02.13.07:050][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2023.04.04-02.13.09:367][794]Cmd: DELETE
+[2023.04.04-02.13.09:367][794]Cmd: ACTOR DELETE
+[2023.04.04-02.13.09:369][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.04-02.13.09:373][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.04-02.13.09:374][794]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2023.04.04-02.13.09:757][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2023.04.04-02.13.09:877][851]Cmd: DELETE
+[2023.04.04-02.13.09:877][851]Cmd: ACTOR DELETE
+[2023.04.04-02.13.09:878][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.04-02.13.09:882][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.04-02.13.09:882][851]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.04.04-02.13.10:329][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2023.04.04-02.13.10:442][915]Cmd: DELETE
+[2023.04.04-02.13.10:442][915]Cmd: ACTOR DELETE
+[2023.04.04-02.13.10:444][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.04-02.13.10:448][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.04-02.13.10:449][915]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.04.04-02.13.10:948][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2023.04.04-02.13.11:051][983]Cmd: DELETE
+[2023.04.04-02.13.11:051][983]Cmd: ACTOR DELETE
+[2023.04.04-02.13.11:052][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.04-02.13.11:055][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.04-02.13.11:056][983]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.04.04-02.13.11:970][ 93]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2023.04.04-02.13.12:277][128]Cmd: DELETE
+[2023.04.04-02.13.12:277][128]Cmd: ACTOR DELETE
+[2023.04.04-02.13.12:278][128]LogEditorActor: Deleted Actor: DocumentationActor
+[2023.04.04-02.13.12:281][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.04.04-02.13.12:282][128]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.04.04-02.13.16:646][645]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2023.04.04-02.13.18:975][921]Cmd: DELETE
+[2023.04.04-02.13.18:975][921]Cmd: ACTOR DELETE
+[2023.04.04-02.13.18:976][921]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2023.04.04-02.13.18:980][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.04.04-02.13.18:980][921]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.04.04-02.13.19:503][984]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2023.04.04-02.13.21:380][206]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2023.04.04-02.13.21:609][231]Cmd: DELETE
+[2023.04.04-02.13.21:609][231]Cmd: ACTOR DELETE
+[2023.04.04-02.13.21:610][231]LogEditorActor: Deleted Actor: AtmosphericFog
+[2023.04.04-02.13.21:618][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.04-02.13.21:618][231]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.04.04-02.13.22:911][384]Cmd: TRANSACTION UNDO
+[2023.04.04-02.13.22:911][384]LogEditorTransaction: Undo Delete Actors
+[2023.04.04-02.13.22:927][384]LogSlate: Took 0.000884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.04-02.13.30:010][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.04-02.13.43:325][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.04-02.13.43:340][673]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap373642A3408644A96FAFD6AAD587A300.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.04-02.13.43:506][673]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap_BuiltData1851D31243A78C8807C0CA8F0E468BF6.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.04-02.13.43:518][673]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.04-02.13.43:518][673]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.04-02.13.43:518][673]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.04-02.13.47:117][ 56]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.04-02.14.11:102][542]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.14.17:546][307]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.04-02.14.17:550][307]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.04-02.14.23:448][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2023.04.04-02.14.54:645][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.04-02.14.54:657][496]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap9AFF6ED040BBF2623344B8A85CBBFAEE.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.04-02.14.54:790][496]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap_BuiltDataC1AABFBB46EE69E301C0FF9EC8F022CE.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.04-02.14.54:798][496]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.04-02.14.54:798][496]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.04-02.14.54:798][496]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.04-02.15.03:580][498]Cmd: TRANSACTION UNDO
+[2023.04.04-02.15.03:580][498]LogEditorTransaction: Undo Scale Actors
+[2023.04.04-02.15.09:018][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.04-02.15.09:024][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-02.15.09:025][ 86]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 3, 2023, 12:15:09 PM)
+[2023.04.04-02.15.09:026][ 86]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.04-02.15.09:027][ 86]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.04-02.15.09:028][ 86]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.04-02.15.09:037][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009359s)
+[2023.04.04-02.15.09:038][ 86]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.04-02.15.09:038][ 86]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2023.04.04-02.15.09:038][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010775s)
+[2023.04.04-02.15.09:044][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.04-02.15.09:046][ 86]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.04-02.15.09:046][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-02.15.09:046][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-02.15.09:046][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-02.15.09:046][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-02.15.09:046][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-02.15.09:046][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.04-02.15.09:046][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-02.15.09:046][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-02.15.09:047][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-02.15.09:047][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-02.15.09:047][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-02.15.09:047][ 86]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.04-02.15.09:058][ 86]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.04-02.15.09:058][ 86]LogAudioMixer: Display: 1: FrontRight
+[2023.04.04-02.15.09:058][ 86]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.04-02.15.09:058][ 86]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.04-02.15.09:058][ 86]LogAudioMixer: Display: 4: BackLeft
+[2023.04.04-02.15.09:059][ 86]LogAudioMixer: Display: 5: BackRight
+[2023.04.04-02.15.09:059][ 86]LogAudioMixer: Display: 6: SideLeft
+[2023.04.04-02.15.09:059][ 86]LogAudioMixer: Display: 7: SideRight
+[2023.04.04-02.15.09:100][ 86]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.04.04-02.15.09:101][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-02.15.09:101][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-02.15.09:101][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-02.15.09:101][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.04-02.15.09:101][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.04-02.15.09:101][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.04-02.15.09:102][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.04-02.15.09:102][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.04-02.15.09:102][ 86]LogInit: FAudioDevice initialized.
+[2023.04.04-02.15.09:102][ 86]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.04.04-02.15.09:114][ 86]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.04-02.15.09:115][ 86]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.03-19.15.09
+[2023.04.04-02.15.09:115][ 86]LogWorld: Bringing up level for play took: 0.001046
+[2023.04.04-02.15.09:115][ 86]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.04.04-02.15.09:118][ 86]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.04.04-02.15.09:119][ 86]PIE: Server logged in
+[2023.04.04-02.15.09:120][ 86]PIE: Play in editor total start time 0.097 seconds.
+[2023.04.04-02.15.11:960][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.15.11:960][419]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.04-02.15.11:960][419]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-02.15.11:961][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-02.15.11:971][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-02.15.11:981][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-02.15.11:984][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.15.11:985][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.04-02.15.11:986][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.04-02.15.12:002][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.04-02.15.12:047][421]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.04.04-02.15.17:049][  3]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.04-02.15.17:054][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-02.15.17:054][  3]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 3, 2023, 12:15:17 PM)
+[2023.04.04-02.15.17:099][  3]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.04-02.15.17:106][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007099s)
+[2023.04.04-02.15.17:107][  3]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.04-02.15.17:107][  3]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2023.04.04-02.15.17:107][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008217s)
+[2023.04.04-02.15.17:112][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.04-02.15.17:113][  3]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-02.15.17:113][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-02.15.17:113][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-02.15.17:113][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-02.15.17:113][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-02.15.17:113][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 1: FrontRight
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 4: BackLeft
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 5: BackRight
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 6: SideLeft
+[2023.04.04-02.15.17:123][  3]LogAudioMixer: Display: 7: SideRight
+[2023.04.04-02.15.17:162][  3]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.04.04-02.15.17:162][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-02.15.17:162][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-02.15.17:162][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-02.15.17:162][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.04-02.15.17:162][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.04-02.15.17:162][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.04-02.15.17:163][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.04-02.15.17:163][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.04-02.15.17:163][  3]LogInit: FAudioDevice initialized.
+[2023.04.04-02.15.17:163][  3]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.04.04-02.15.17:171][  3]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.04-02.15.17:172][  3]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.03-19.15.17
+[2023.04.04-02.15.17:173][  3]LogWorld: Bringing up level for play took: 0.001093
+[2023.04.04-02.15.17:173][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.04.04-02.15.17:174][  3]PIE: Server logged in
+[2023.04.04-02.15.17:175][  3]PIE: Play in editor total start time 0.123 seconds.
+[2023.04.04-02.15.21:880][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.15.21:880][561]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.04-02.15.21:880][561]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-02.15.21:880][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-02.15.21:888][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-02.15.21:900][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-02.15.21:903][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-02.15.21:903][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.04-02.15.21:904][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.04-02.15.21:915][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.04-02.15.21:963][563]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.04.04-02.15.25:564][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.04-02.15.25:575][978]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap3DFE6FF447B7741DEF6D12B834609183.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.04-02.15.25:705][978]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap_BuiltDataE31A25ED4B0DC7D418A2A0936BB75346.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.04-02.15.25:713][978]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.04-02.15.25:713][978]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.04-02.15.25:713][978]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Content: 'D:/Games/UE_4.27/Engine/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:109][345]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.29:470][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.04.04-02.15.29:481][345]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap96B2EA3A40EFA3885AF3A7AAD9477E55.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.04-02.15.29:487][345]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.021
+[2023.04.04-02.15.29:527][345]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap_BuiltDataCABAB84D4F675569A1BB9F808DCDD921.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.04-02.15.41:913][345]LogSlate: Window 'Submit Files' being destroyed
+[2023.04.04-02.15.42:596][345]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2023.04.04-02.15.42:596][345]SourceControl: Error: Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2023.04.04-02.15.42:596][345]SourceControl: Error: hint: Use -f if you really want to add them.
+[2023.04.04-02.15.42:596][345]SourceControl: Error: hint: Turn this message off by running
+[2023.04.04-02.15.42:596][345]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2023.04.04-02.15.42:930][345]SourceControl: Error: error: pathspec 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset' did not match any file(s) known to git
+[2023.04.04-02.15.42:952][346]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.04-02.15.42:952][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.04-02.15.42:952][346]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Content: 'D:/Games/UE_4.27/Engine/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:556][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:557][566]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.15.53:912][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.04-02.15.53:922][566]LogSavePackage: Moving 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Saved/ThirdPersonExampleMap15492FD04F0AFF2B75017B8FBD0AA92D.tmp' to 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist/Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.04-02.15.53:929][566]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.021
+[2023.04.04-02.16.15:703][566]LogSlate: Window 'Submit Files' being destroyed
+[2023.04.04-02.16.16:926][566]LogSourceControl: commit successful: Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap: needs merge
+[2023.04.04-02.16.17:176][566]SourceControl: Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap: needs merge
+[2023.04.04-02.16.17:176][566]SourceControl: [main 9f7ccf9] Rebuild the project and the test bed
+[2023.04.04-02.16.17:176][566]SourceControl:  7 files changed, 214 insertions(+)
+[2023.04.04-02.16.17:176][566]SourceControl:  create mode 100644 Operation_Art_Heist/Config/DefaultEditor.ini
+[2023.04.04-02.16.17:176][566]SourceControl:  create mode 100644 Operation_Art_Heist/Config/DefaultEngine.ini
+[2023.04.04-02.16.17:176][566]SourceControl:  create mode 100644 Operation_Art_Heist/Config/DefaultGame.ini
+[2023.04.04-02.16.17:176][566]SourceControl:  create mode 100644 Operation_Art_Heist/Config/DefaultInput.ini
+[2023.04.04-02.16.17:176][566]SourceControl:  create mode 100644 Operation_Art_Heist/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2023.04.04-02.16.17:176][566]SourceControl:  create mode 100644 Operation_Art_Heist/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2023.04.04-02.16.17:176][566]SourceControl:  create mode 100644 Operation_Art_Heist/Operation_Art_Heist.uproject
+[2023.04.04-02.16.17:182][566]SourceControl: Commited Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap: needs merge.
+[2023.04.04-02.16.17:198][567]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.04.04-02.16.17:198][567]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.04-02.16.25:463][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Content: 'D:/Games/UE_4.27/Engine/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:463][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:463][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:463][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:464][513]SourceControl: fatal: D:/Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/AAU/AAU 2023 Spring/GAM_651_Operation_Art_Heist/UnrealProject/Operation_Art_Heist'
+[2023.04.04-02.16.25:710][513]EditorErrors: Warning: No assets to check in!
